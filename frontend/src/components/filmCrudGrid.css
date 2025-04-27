@@ -1,0 +1,8 @@
+.container {
+  border-radius: 5px;
+  height: 411px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  margin-top: 5.5rem;
+}
